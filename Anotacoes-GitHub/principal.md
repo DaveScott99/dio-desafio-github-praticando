@@ -1,1 +1,0 @@
-# Esta pasta é destinada para fazer anotações sobre Git/GitHub
